@@ -32,7 +32,7 @@ For the purposes of these Terms and Conditions:
 - __Service__ refers to the Application.
 
 
-- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 - __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
@@ -147,5 +147,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-
-- By email: test@gmial.com
+- By instagram: [aadya_ai](https://www.instagram.com/aadya_ai/)
