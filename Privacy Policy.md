@@ -183,5 +183,3 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 - By instagram: [test@gmail.com](https://www.instagram.com/aadya_ai/)
 
-
-- By visiting this page on our website: [aadya.com/contact](aadya.com/contact)
